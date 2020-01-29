@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\C#_File\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\HP\Desktop\C#_File\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\HP\Desktop\C#_File\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\HP\Desktop\C#_File\Assignment4\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#_File\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\HP\Desktop\C#_File\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
